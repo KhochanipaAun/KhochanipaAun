@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Belle
 =============================================================================================================================
 
-I'm a Computer science student from RMUTT !
+I'm a computer science student from RMUTT !
 -------------------------------------------
 
 I'm a Thai developer ||Python, SQL, HTML, CSS, Java, JavaScript, C# ||
