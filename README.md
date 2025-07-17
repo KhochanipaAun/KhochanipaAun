@@ -36,5 +36,4 @@ I'm a Thai developer ||Python, SQL, HTML, CSS, Java, JavaScript, C# ||
 
 <p align="left"> <a href="https://www.facebook.com/Khochanipa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/KhochanipaAun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/khochanipa-aunsuphan-07095a264" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
-![KhochanipaAun's Stats](https://github-readme-stats.vercel.app/api?username=KhochanipaAun&theme=gotham&show_icons=true&hide_border=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
