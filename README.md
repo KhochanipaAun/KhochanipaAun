@@ -7,7 +7,7 @@ I'm an IT student from RMUTT !
 I'm a Thai developer ||Python, SQL, HTML, CSS, Java, JavaScript, C# ||
 
 * 🌍  I'm based in Bangkok, Thailand.
-* ✉️  You can contact me: [belleblue021@gmail.com](mailto:belleblue021@gmail.com)
+* ✉️  contact: [belleblue021@gmail.com](mailto:belleblue021@gmail.com)
 
 ### Skills
 
